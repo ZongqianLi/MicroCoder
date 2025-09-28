@@ -50,10 +50,12 @@
 This is the project page for MicroCoder and a brief summary for the papers below:
 
 - **Breaking Training Bottlenecks: Effective Reinforcement Learning for Modern Coding Models**  
-  Zongqian Li, Shaohan Huang, Zewen Chi, Yixuan Su, Lexin Zhou, Li Dong, Nigel Collier, Furu Wei    
+  Zongqian Li <sup>1, 2</sup>, Shaohan Huang <sup>1</sup>, Zewen Chi <sup>1</sup>, Yixuan Su <sup>2</sup>, Lexin Zhou <sup>3</sup>, Li Dong <sup>1</sup>, Nigel Collier <sup>2</sup>, Furu Wei <sup>1</sup>    
+  Microsoft <sup>1</sup>, University of Cambridge <sup>2</sup>, Princeton University <sup>3</sup>    
   [Algorithm_Paper]()
-- **MicroCoder-Dataset: An Updated and Challenging Dataset for Training Modern Coding Models**  
-  Zongqian Li, Shaohan Huang, Tengchao Lv, Lei Cui, Furu Wei    
+- **MicroCoder-Dataset: A Latest and Challenging Dataset for Training Modern Coding Models**  
+  Zongqian Li <sup>1, 2</sup>, Shaohan Huang <sup>1</sup>, Tengchao Lv <sup>1</sup>, Lei Cui <sup>1</sup>, Furu Wei <sup>1</sup>    
+  Microsoft <sup>1</sup>, University of Cambridge <sup>2</sup>  
   [Dataset_Paper]()
 - **MicroCoder-Insights: Training Recipes for Modern Coding Models**  
   123  
