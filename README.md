@@ -45,7 +45,7 @@
 
 
 
-## 📖 Related Papers
+## 📖 Paper List
 
 This is the project page for MicroCoder and a brief summary for the papers below:
 
