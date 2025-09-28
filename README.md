@@ -59,7 +59,7 @@ This is the project page for MicroCoder and a brief summary for the papers below
 - **MicroCoder-Dataset: An Updated and Challenging Dataset for Training Modern Coding Models**  
   Zongqian Li, Shaohan Huang, Tengchao Lv, Lei Cui, Furu Wei    
   [Dataset_Paper]()
-- **MicroCoder-Insights: **  
+- **MicroCoder-Insights: Training Recipes for Modern Coding Models**  
   123  
   [Insight_Blog]()
 
