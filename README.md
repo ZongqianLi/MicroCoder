@@ -6,16 +6,13 @@
 
 <p align="center">
   <a href="#news">🚀News</a> •
-  <a href="#paper_list">🚀Paper_List</a> •
+  <a href="#paper_list">📖Paper_List</a> •
   <a href="#motivation">✨Motivation</a>
 </p>
 
 <p align="center">
   <a href="#analysis">📈Analysis</a> •
-  <a href="#algorithms">🖥️Algorithms</a>
-</p>
-
-<p align="center">
+  <a href="#algorithms">🖥️Algorithms</a> •
   <a href="#dataset">🗂️Dataset</a> •
   <a href="#code_evaluator">💯Code_Evaluator</a>
 </p>
