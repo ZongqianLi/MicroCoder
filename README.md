@@ -27,8 +27,7 @@
 </p>
 
 <p align="center">
-  <a href="">Project Page</a> •
-  <a href="">Demo Page</a> •
+  <a href="https://github.com/ZongqianLi/MicroCoder/blob/main/README.md">Project Page</a> •
   <a href="">Paper</a>
 </p>
 
