@@ -54,7 +54,7 @@ This is the project page for MicroCoder and a brief summary for the papers below
   Microsoft <sup>1</sup>, University of Cambridge <sup>2</sup>, Princeton University <sup>3</sup>    
   [Algorithm_Paper]()
 - **MicroCoder-Dataset: A Latest and Challenging Dataset for Training Modern Coding Models**  
-  Zongqian Li <sup>1, 2</sup>, Shaohan Huang <sup>1</sup>, Tengchao Lv <sup>1</sup>, Lei Cui <sup>1</sup>, Furu Wei <sup>1</sup>    
+  Zongqian Li <sup>1, 2</sup>, Shaohan Huang <sup>1</sup>, Tengchao Lv <sup>1</sup>, Lei Cui <sup>1</sup>, Nigel Collier <sup>2</sup>,, Furu Wei <sup>1</sup>    
   Microsoft <sup>1</sup>, University of Cambridge <sup>2</sup>  
   [Dataset_Paper]()
 - **MicroCoder-Insights: Training Recipes for Modern Coding Models**  
