@@ -28,10 +28,6 @@
   <a href="#license">🔖License</a>
 </p>
 
-<p align="center">
-  <b>Links</b>
-</p>
-
 <div id="news">&nbsp;</div>
 
 
