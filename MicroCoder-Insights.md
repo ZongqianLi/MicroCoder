@@ -93,7 +93,7 @@
 ## ☀️ Temperature Dynamics
 
 <p align="left">
-  <img src="./figures/.png" width="80%">
+  <img src="./figures/7_2.png" width="80%">
 </p>
 
 <div>&nbsp;</div>
@@ -105,7 +105,7 @@
 ## 📊 Data Quality
 
 <p align="left">
-  <img src="./figures/.png" width="80%">
+  <img src="./figures/8_2.png" width="80%">
 </p>
 
 <div>&nbsp;</div>
@@ -117,7 +117,7 @@
 ## 📄 Context Length and Extension
 
 <p align="left">
-  <img src="./figures/.png" width="80%">
+  <img src="./figures/10_2.png" width="81%">
 </p>
 
 <div>&nbsp;</div>
@@ -129,7 +129,7 @@
 ## 📏 Truncation Mask
 
 <p align="left">
-  <img src="./figures/.png" width="80%">
+  <img src="./figures/12_2.png" width="80%">
 </p>
 
 <div>&nbsp;</div>
@@ -141,7 +141,7 @@
 ## 🏘️ Batch Size and On-Policy
 
 <p align="left">
-  <img src="./figures/.png" width="80%">
+  <img src="./figures/11_2.png" width="81%">
 </p>
 
 <div>&nbsp;</div>
@@ -153,7 +153,7 @@
 ## 🖇️ KL Loss and Clip Ratio
 
 <p align="left">
-  <img src="./figures/.png" width="80%">
+  <img src="./figures/9_2.png" width="80%">
 </p>
 
 <div>&nbsp;</div>
