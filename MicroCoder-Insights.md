@@ -81,7 +81,7 @@
 ## 🖥️ Code Evaluator Robustness
 
 <p align="left">
-  <img src="./figures/.png" width="80%">
+  <img src="./figures/6_4.png" width="80%">
 </p>
 
 <div>&nbsp;</div>
