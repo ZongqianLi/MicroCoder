@@ -12,15 +12,15 @@
 
 <p align="center">
   <a href="#code_evaluator">🖥️Code_Evaluator_Robustness</a> •
-  <a href="#temperature">☀️ Temperature_Dynamics</a> •
-  <a href="#data">📊 Data_Quality</a> •
-  <a href="#context_length_and_extension">📄 Context_Length_and_Extension</a>
+  <a href="#temperature">☀️Temperature_Dynamics</a> •
+  <a href="#data">📊Data_Quality</a> •
+  <a href="#context_length_and_extension">📄Context_Length_and_Extension</a>
 </p>
 
 <p align="center">
-  <a href="#truncation_mask">📏 Truncation_Mask</a> •
-  <a href="#batch_size">🏘️ Batch_Size_and_On-Policy</a> •
-  <a href="#kl_loss_and_clip_ratio">🖇️ KL_Loss_and_Clip_Ratio</a>
+  <a href="#truncation_mask">📏Truncation_Mask</a> •
+  <a href="#batch_size">🏘️Batch_Size_and_On-Policy</a> •
+  <a href="#kl_loss_and_clip_ratio">🖇️KL_Loss_and_Clip_Ratio</a>
 </p>
 
 <p align="center">
