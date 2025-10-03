@@ -91,6 +91,8 @@
   <img src="./figures/6_4.png" width="80%">
 </p>
 
+_Figure: Model: Qwen/Qwen3-4B-Instruct-2507, Temperature: 1.2, Algorithm: GRPO+, Max Response Length: 8K, Dataset: MicroCoder-Dataset, Train Batch Size: 64_
+
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 <div id="temperature">&nbsp;</div>
@@ -114,6 +116,8 @@
   <img src="./figures/7_2.png" width="80%">
 </p>
 
+_Figure: Model: Qwen/Qwen3-4B-Instruct-2507, Algorithm: GRPO+, Max Response Length: 8K, Dataset: Open-R1 Dataset, Train Batch Size: 64_
+
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 <div id="data">&nbsp;</div>
@@ -130,6 +134,8 @@
 <p align="left">
   <img src="./figures/8_2.png" width="80%">
 </p>
+
+_Figure: Model: Qwen/Qwen3-4B-Instruct-2507, Temperature: 1.2, Algorithm: GRPO+, Max Response Length: 8K, Train Batch Size: 64_
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
@@ -149,6 +155,8 @@
 <p align="left">
   <img src="./figures/10_2.png" width="81%">
 </p>
+
+_Figure: Model: Qwen/Qwen3-4B-Instruct-2507, Temperature: 1.2, Algorithm: GRPO+, Dataset: MicroCoder-Dataset, Train Batch Size: 64_
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
@@ -171,6 +179,8 @@
   <img src="./figures/12_2.png" width="80%">
 </p>
 
+_Figure: Model: Qwen/Qwen3-4B-Instruct-2507, Temperature: 1.2, Algorithm: GRPO+, Max Response Length: 4K, Dataset: MicroCoder-Dataset, Train Batch Size: 64_
+
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 <div id="batch_size">&nbsp;</div>
@@ -188,6 +198,8 @@
   <img src="./figures/11_2.png" width="81%">
 </p>
 
+_Figure: Model: Qwen/Qwen3-4B-Instruct-2507, Temperature: 1.2, Algorithm: GRPO+, Max Response Length: 8K, Dataset: MicroCoder-Dataset_
+
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 <div id="kl_loss_and_clip_ratio">&nbsp;</div>
@@ -202,6 +214,8 @@
 <p align="left">
   <img src="./figures/9_2.png" width="80%">
 </p>
+
+_Figure: Model: Qwen/Qwen3-4B-Instruct-2507, Temperature: 1.2, Max Response Length: 8K, Dataset: MicroCoder-Dataset, Train Batch Size: 64_
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
