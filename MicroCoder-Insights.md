@@ -28,6 +28,14 @@
   <a href="#license">🔖License</a>
 </p>
 
+<p align="center">
+  <b>Links</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ZongqianLi/MicroCoder/blob/main/README.md">Project Page</a>
+</p>
+
 <div id="news">&nbsp;</div>
 
 
