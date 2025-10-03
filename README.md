@@ -29,7 +29,7 @@
 <p align="center">
   <a href="">Algorithm Paper</a> •
   <a href="">Dataset Paper</a> •
-  <a href="">Insights Blog</a>
+  <a href="https://github.com/ZongqianLi/MicroCoder/blob/main/MicroCoder-Insights.md">Insights Blog</a>
 </p>
 
 <div id="news">&nbsp;</div>
