@@ -59,7 +59,7 @@ This is the project page for MicroCoder and a brief summary for the papers below
   [Dataset_Paper]()
 - **MicroCoder-Insights: Training Recipes for Modern Coding Models**  
   123  
-  [Insight_Blog]()
+  [Insight_Blog](https://github.com/ZongqianLi/MicroCoder/blob/main/MicroCoder-Insights.md)
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
