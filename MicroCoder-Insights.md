@@ -72,6 +72,8 @@
   <img src="./figures/1_0.png" width="80.2%">
 </p>
 
+_Figure: Algorithm: GRPO+, Max Response Length: 8K, Test Dataset: LiveCodeBench v6, Train Batch Size: 64_
+
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 <div id="code_evaluator">&nbsp;</div>
