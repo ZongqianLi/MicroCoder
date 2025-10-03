@@ -27,8 +27,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ZongqianLi/MicroCoder/blob/main/README.md">Project Page</a> •
-  <a href="">Paper</a>
+  <a href="">Algorithm Paper</a> •
+  <a href="">Dataset Paper</a> •
+  <a href="">Insights Blog</a>
 </p>
 
 <div id="news">&nbsp;</div>
