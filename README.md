@@ -79,7 +79,9 @@ This is the project page for MicroCoder and a brief summary for the papers below
 
 ## 📈 Analysis: MicroCoder-Insights
 
-
+<p align="left">
+  <img src="./figures/microcoder-insights.PNG" width="80%">
+</p>
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
