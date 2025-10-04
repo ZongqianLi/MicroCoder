@@ -112,6 +112,10 @@ $\theta$: current policy parameters, $\theta_{\text{old}}$: reference policy par
 
 _Figure: Temperature: 1.2, Train Dataset: MicroCoder-Dataset, Test Dataset: LiveCodeBench v6, Train Batch Size: 64_
 
+<p align="left">
+  <img src="./figures/algorithm_table_results.png" width="80%">
+</p>
+
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 <div id="dataset">&nbsp;</div>
