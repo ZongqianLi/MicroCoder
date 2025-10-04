@@ -80,6 +80,10 @@ This is the project page for MicroCoder and a brief summary for the papers below
 
 ## 📈 Analysis: MicroCoder-Insights
 
+[MicroCoder-Insights: Training Recipes for Modern Coding Models](https://github.com/ZongqianLi/MicroCoder/blob/main/MicroCoder-Insights.md)
+
+Through comprehensive analysis across more than thirty controlled experiments, we reveal 34 key training insights across seven main aspects including code evaluator, temperature, training data, context length and extension, truncation mask strategies, batch size and on-policy, KL loss and clip ratio.
+
 <p align="left">
   <img src="./figures/microcoder-insights.PNG" width="80%">
 </p>
@@ -92,6 +96,9 @@ This is the project page for MicroCoder and a brief summary for the papers below
 
 ## 🖥️ Algorithms: MicroCoder-GRPO
 
+[Breaking Training Bottlenecks: Effective Reinforcement Learning for Modern Coding Models]()
+
+To address training bottlenecks, we propose MicroCoder-GRPO, an enhanced Group Relative Policy Optimization approach with three key innovations: conditional truncation masking to enhance long output potential while maintaining training stability, diversity-determined temperature selection to maintain and encourage output diversity, and removal of KL loss with high clipping ratios to facilitate exploration.
 
 
 <div>&nbsp;</div>
@@ -101,6 +108,8 @@ This is the project page for MicroCoder and a brief summary for the papers below
 
 
 ## 🗂️ Dataset: MicroCoder-Dataset
+
+[MicroCoder-Dataset: A Latest and Challenging Dataset for Training Modern Coding Models]()
 
 
 
