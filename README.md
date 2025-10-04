@@ -106,6 +106,12 @@ To address training bottlenecks, we propose MicroCoder-GRPO, an enhanced Group R
 
 $\theta$: current policy parameters, $\theta_{\text{old}}$: reference policy parameters, $\pi_{\theta}$: policy with parameters $\theta$, $\pi_{\theta_{\text{old}}}$: old/reference policy, $T(D)$: training temperature determined by diversity, $D$: output diversity, $\beta_0$: KL loss weight (set to 0), $\varepsilon$: clipping trust region parameter, $\varepsilon_{\text{high}}$: high clipping value, $L_{\max}$: maximum response length, $\rho$: masking probability, $m$: repeat check parameter (128 tokens), $q$: query, $Q$: set of queries, $P(Q)$: probability distribution over queries, $G$: number of outputs/samples, $o_i$: output $i$, $r_i$: reward for output $i$, $A_i$: advantage score for output $i$, $U(0,1)$: uniform distribution over [0,1], $\mathbb{I}[\cdot]$: indicator function, $\mathbf{D}_{\text{KL}}$: KL divergence, $\text{incorrect}(o_i)$: indicates whether output $i$ is incorrect, $\neg\text{repeat}(o_i, m)$: checks for non-repetition sequences (final 128 tokens differ from preceding 128 tokens)
 
+<p align="left">
+  <img src="./figures/13.png" width="80%">
+</p>
+
+_Figure: Temperature: 1.2, Train Dataset: MicroCoder-Dataset, Test Dataset: LiveCodeBench v6, Train Batch Size: 64_
+
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 <div id="dataset">&nbsp;</div>
