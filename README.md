@@ -98,7 +98,13 @@ Through comprehensive analysis across more than thirty controlled experiments, w
 
 [Breaking Training Bottlenecks: Effective Reinforcement Learning for Modern Coding Models]()
 
-To address training bottlenecks, we propose MicroCoder-GRPO, an enhanced Group Relative Policy Optimization approach with three key innovations: conditional truncation masking to enhance long output potential while maintaining training stability, diversity-determined temperature selection to maintain and encourage output diversity, and removal of KL loss with high clipping ratios to facilitate exploration. The modifications of MicroCoder-GRPO compared to GRPO are shown as the red components in the equations:
+To address training bottlenecks, we propose MicroCoder-GRPO, an enhanced Group Relative Policy Optimization approach with three key innovations: 
+
+- conditional truncation masking to enhance long output potential while maintaining training stability,
+- diversity-determined temperature selection to maintain and encourage output diversity,
+- and removal of KL loss with high clipping ratios to facilitate exploration.
+
+The modifications of MicroCoder-GRPO compared to GRPO are shown as the red components in the equations:
 
 <p align="left">
   <img src="./figures/MicroCoder-GRPO_equation.png" width="80%">
