@@ -70,7 +70,15 @@ This is the project page for MicroCoder and a brief summary for the papers below
 
 ## ✨ Motivation
 
+- **Cross-generational training effectiveness**: Current training methods demonstrate substantial improvements on Qwen 2.5 models but minimal improvements on Qwen 3 models, revealing generation-specific training bottlenecks
+- **Dataset difficulty gap**: Mainstream datasets pose greater difficulty for Qwen 2.5 while appearing relatively simple for Qwen 3 capabilities, indicating need for more challenging training corpora
+- **Fundamental behavioral differences**: Output behavior patterns differ fundamentally between generations; Qwen 3 models exhibit pronounced upward trends in response length during training whereas Qwen 2.5 models show stable or decreasing lengths; across model series progression from Qwen 2.5 Instruct to Qwen 3 Instruct to Qwen 3 Thinking, standard outputs demonstrate increasing length and variance
 
+<p align="left">
+  <img src="./figures/1_0.png" width="80.2%">
+</p>
+
+_Figure: Algorithm: GRPO+, Max Response Length: 8K, Test Dataset: LiveCodeBench v6, Train Batch Size: 64_
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
@@ -152,7 +160,13 @@ _Figure: Temperature: 1.2, Train Dataset: MicroCoder-Dataset, Test Dataset: Live
 
 ## 📌 Citation
 
+```
 
+```
+
+```
+
+```
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
